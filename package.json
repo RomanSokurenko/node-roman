@@ -1,0 +1,29 @@
+{
+  "name": "roman",
+  "version": "1.0.0",
+  "description": "Node js course for youTube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanSokurenko/node-roman.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Sokurenko Roman <sokurenko.roman82@gmail.com >",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanSokurenko/node-roman/issues"
+  },
+  "homepage": "https://github.com/RomanSokurenko/node-roman#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
